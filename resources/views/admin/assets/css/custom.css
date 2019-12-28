@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900|Raleway:100,200,300,400,500,600,700,800,900|Roboto:100,300,400,500,700,900');
+
+.error{
+    color: red;
+    font-size: 14px;
+    background-color: #fff;
+    padding-top: 10px;
+}
+
+.frgt-pw .frgt-txt{
+    font-size: 18px;
+}
+.select2.select2-container .select2-selection{
+    height: 44px;
+    padding-top: 7px;
+    border: 1px solid #cad1d7;
+}
+.select2.select2-container .select2-selection .select2-selection__arrow{
+    padding-top: 14%;
+}
+.select2.select2-container .select2-selection .select2-selection__rendered{
+    color: #8898aa;
+}
+.ed-icon{
+    float: left;
+    font-size: 19px;
+    margin-right: 8px;
+}
+.ey-icon{
+    float: left;
+    font-size: 19px;
+    margin-left: 8px;
+}
+.form-delete{
+    float: left;
+}
+.custom-file-upload{
+    cursor: pointer;
+    border: 1px solid #cad1d7;
+    padding: 7px 40px;
+    border-radius: 5px;
+}
+.upld-icon{
+    padding-right: 10px;
+}
+.custom-arrow .select2-selection__arrow{
+    padding-top: 9% !important;
+}
+.frm-capital{
+    text-transform: capitalize;
+}
